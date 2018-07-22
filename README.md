@@ -1,23 +1,20 @@
 # Ajax
 
-This is the repo for [Udacity's Ajax course](). The course covers making asynchronous requests using three different methods:
+This was a project in [Udacity's Ajax course](https://www.udacity.com/course/asynchronous-javascript-requests--ud109). The course covers making asynchronous requests using three different methods:
 
 * the XHR object
 * jQuery's `.ajax()` method
 * the Fetch API
 
-The same project is built with each of these techniques. You'll find one folder for each.
 
-## Table of Contents
+## Project Overview
 
-* [Instructions](#instructions)
-* [Creator](#creators)
+This project reqires particpants to register developer accounts from Unsplash and The New York Times. The app opens with a search bar underneath the question, 'What are you interested in today?.' 
 
-## Instructions
+When users enter a concept of interest, the app displays a picture of that concept from Unsplash and a list of articles related to that concept from the New York Times. 
 
-There are no special instructions for this project.
 
-## Creators
+## Project Creator
 
 **Richard Kalehoff**
 
