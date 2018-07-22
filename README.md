@@ -13,6 +13,8 @@ This project reqires particpants to register developer accounts from Unsplash an
 
 When users enter a concept of interest, the app displays a picture of that concept from Unsplash and a list of articles related to that concept from the New York Times. 
 
+![Rocket1](https://farm1.staticflickr.com/918/43570155371_667f7a4724.jpg)
+![Rocket2](https://farm2.staticflickr.com/1787/43570155821_038578e4a2.jpg)
 
 ## Project Creator
 
