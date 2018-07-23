@@ -14,7 +14,7 @@
         $.ajax({
           url: `https://api.unsplash.com/search/photos?page=1&query=${searchedForText}`,
           headers: {
-            Authorization: 'Client-ID 4c49476cfc0e384b34f077fe63d4d5d85d49f42147c9f20a4e72af3f945ef804'
+            Authorization: 'Client-ID c49476cfc0e384b34f077fe63d4d5d85d49f42147c9f20a4e72af3f945ef804'
           }
         }).done(addImage)
         .fail(function(err) {
@@ -22,7 +22,7 @@
         });
 
         $.ajax({
-          url: `https://api.nytimes.com/svc/search/v2/articlesearch.json?q=${searchedForText}&api-key=e01307aa568c4ee89f41a0ddfd5b4fa3`
+          url: `https://api.nytimes.com/svc/search/v2/articlesearch.json?q=${searchedForText}&api-key=01307aa568c4ee89f41a0ddfd5b4fa3`
         }).done(addArticles)
         .fail(function(err) {
           requestError(err, 'articles');
